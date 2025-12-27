@@ -14,3 +14,8 @@ body {
   color: #fff;
   font-family: "Montserrt", sans-serif;
 }
+
+.align_center {
+  display: flex;
+  align-items: center;
+}
